@@ -1,6 +1,6 @@
-# Java Reflection Example (Deprecated, wait for a new example)
+# Java Reflection Example.
+## The example is now better and doesn't need no library extra
 
-20/09/2020 I finalized an article about Java Reflection and put it here.
 The Article explain how to use Java Reflection with a didatic example, building a JSON from any object
 I explain every operation and the why I am using it.
 09/20/2020 I finalized an article about Java Reflection and put it here.
